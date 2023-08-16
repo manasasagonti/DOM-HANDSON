@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 10px;
+}
+.card{
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+}
+#clock{
+    width: 750px;
+    font-size: 125px;
+    margin: 200px;
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
+}
